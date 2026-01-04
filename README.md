@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Amit Kundu</h1>
 <h3 align="center">An Android Developer from India</h3>
 
-- 🌱 I’m currently learning **Android development in Jetpack Compose**
+- 🌱 I’m currently learning **(Compose Multiplatform )**
 
 
 ---
@@ -16,7 +16,7 @@ Hi, I'm a **4th-year Computer Science student** with a growing passion for Andro
 - **Firebase Integration:** Realtime Database, Authentication, Firestore  
 - **AdMob Implementation**  
 - **Version Control:** Git, GitHub  
-- **Frameworks & Libraries:** Retrofit, Room, Dagger  
+- **Frameworks & Libraries:** Retrofit, Room, Dagger, koin , ktor 
 
 I am a **self-motivated learner** who enjoys turning ideas into functional apps. Whether it's solving real-world problems or experimenting with new technologies, I’m always up for a challenge!
 
