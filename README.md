@@ -10,13 +10,22 @@
 
 Hi, I'm a **4th-year Computer Science student** with a growing passion for Android development. My focus is on creating impactful and user-friendly applications using Jetpack Compose, Kotlin, and other modern tools.
 
-💻 **Skills**:  
-- **Android Development:** Jetpack Compose, MVVM & MVI Architecture  
-- **Programming:** Kotlin, Java,
-- **Firebase Integration:** Realtime Database, Authentication, Firestore  
-- **AdMob Implementation**  
-- **Version Control:** Git, GitHub  
-- **Frameworks & Libraries:** Retrofit, Room, Dagger, koin , ktor 
+💻 **Skills**: 
+📱 **Programming :** Kotlin, Java,
+
+🧠 **Android Development :** Jetpack Compose, MVVM & MVI Architecture, Multi-Module Project Structure, Type-Safe Navigation (Compose)  
+
+🌐 **Networking & Backend :** Retrofit, Ktor, REST API Integration, JSON Parsing (Kotlinx Serialization)
+
+🧩 **Dependency Injection :** Dagger / Hilt, Koin 
+
+🗄️ **Database & Storage :** Room Database, Firebase Realtime Database, Firebase Firestore, DataStore / SharedPreferences 
+
+⚙️ **Modern Android Development :** Kotlin Coroutines & Flow, Clean Architecture, State Management in Jetpack Compose, Kotlin Multiplatform, Compose Multiplatform   
+
+🔐 **Firebase & Cloud :** Firebase Authentication, Firebase Crashlytics, Firebase Cloud Messaging (FCM)
+
+🧪 **Version Control:** Git, GitHub  
 
 I am a **self-motivated learner** who enjoys turning ideas into functional apps. Whether it's solving real-world problems or experimenting with new technologies, I’m always up for a challenge!
 
