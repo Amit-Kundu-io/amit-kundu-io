@@ -11,6 +11,7 @@
 Hi, I'm a **4th-year Computer Science student** with a growing passion for Android development. My focus is on creating impactful and user-friendly applications using Jetpack Compose, Kotlin, and other modern tools.
 
 💻 **Skills**: 
+
 📱 **Programming :** Kotlin, Java,
 
 🧠 **Android Development :** Jetpack Compose, MVVM & MVI Architecture, Multi-Module Project Structure, Type-Safe Navigation (Compose)  
