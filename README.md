@@ -102,10 +102,7 @@ I am a **self-motivated learner** who enjoys turning ideas into functional apps.
   </a>
 </p>
 
-<h2 align="center">💼 Open to Android Developer Opportunities</h2>
-<p align="center">
-  Let's connect and create impactful mobile experiences.
-</p>
+
 
 <div align="center">
 
