@@ -1,4 +1,16 @@
 
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=220&section=header&text=Amit%20Kundu&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Android%20Developer%20%7C%7C%20Kotlin%20%7C%7C%20Jetpack%20Compose%20%7C%7C%20CMP&descAlignY=55&descSize=18" width="100%"/>
+
+
+
+</div>
+
+
+
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=35&duration=3000&color=00B8C4&center=true&vCenter=true&width=750&lines=Hi+👋,+I'm+Amit+Kundu;Android+Developer+from+India;Jetpack+Compose+Specialist;Kotlin+%7C+Jetpack+Compose+%7C+CMP;Building+Scalable+Android+Apps;Clean+Architecture+Enthusiast🚀"/>
 </p>
@@ -89,3 +101,14 @@ I am a **self-motivated learner** who enjoys turning ideas into functional apps.
     <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
   </a>
 </p>
+
+<h2 align="center">💼 Open to Android Developer Opportunities</h2>
+<p align="center">
+  Let's connect and create impactful mobile experiences.
+</p>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f093fb,50:764ba2,100:667eea&height=220&section=footer&text=Open%20to%20Opportunities&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=55&desc=Android%20Developer%20%7C%20Let's%20Connect!&descAlignY=75&descSize=18" width="100%"/>
+
+</div>
