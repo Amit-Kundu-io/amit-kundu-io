@@ -26,7 +26,8 @@
 
 <h2 align="center">🎯 About Me</h2>
 
-Hi, I’m a **4th-year Computer Science student** passionate about Android development. I enjoy building clean, scalable, and user-friendly applications using Kotlin, Jetpack Compose, and modern Android tools, with a strong focus on performance, architecture, and real-world impact.
+Hi, I’m a **B.Tech graduate in Computer Science & Engineering** passionate about Android development. I enjoy building clean, scalable, and user-friendly applications using Kotlin, Jetpack Compose, and modern Android technologies, with a strong focus on performance, clean architecture, and delivering real-world solutions. I’m always eager to learn, solve challenging problems, and build impactful mobile applications.
+
 
 💻 **Skills**: 
 
